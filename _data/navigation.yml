@@ -2,12 +2,7 @@
 main:
   - title: "Home"
     url: "https://sykverse.github.io/"
-  # - title: "Post"
-  #   url: "/posts/"
-
-
-
-
+  
   
   # - title: "About"
   #   url: "/about/"
