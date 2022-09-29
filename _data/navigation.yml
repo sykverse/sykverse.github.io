@@ -2,12 +2,10 @@
 main:
   - title: "Home"
     url: "https://sykverse.github.io/"
-  - title: "Categories"
-    url: "/categories/"
+  - title: "Post"
+    url: "/posts/"
 
-categories:
-  - title: "Visualization"
-    url: /categories/visualization/
+
 
 
   
