@@ -2,9 +2,29 @@
 main:
   - title: "Home"
     url: "https://sykverse.github.io/"
-  - title: "Post"
-    url: "/posts/"
+  - title: "Categories"
+    url: "/categories/"
 
+categories:
+  - title: "Visualization"
+    url: /categories/visualization/
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: #true
+      show_date: #true
+      comments: #true
+      # share: true
+      related: #true
+      sidebar:
+        nav: "categories"
   
   # - title: "About"
   #   url: "/about/"
